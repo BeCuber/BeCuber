@@ -8,6 +8,6 @@
 
 ---
 ## Projects in progress
-<a href="https://github.com/BeCuber/TempO2"><img src="./b_T0_EN.png"/></a>
-<a href="https://github.com/BeCuber/Turnomatic"><img src="./b_Tmatic_EN.png"/></a>
-<a href="https://github.com/BeCuber/page_selenium_test"><img src="b_TEverything.png"/></a>
+<a href="https://github.com/BeCuber/TempO2/blob/main/README_EN.md"><img src="./b_T0_EN.png"/></a>
+<a href="https://github.com/BeCuber/Turnomatic/blob/main/README_EN.md"><img src="./b_Tmatic_EN.png"/></a>
+<a href="https://github.com/BeCuber/page_selenium_test/blob/main/README_EN.md"><img src="b_TEverything.png"/></a>
