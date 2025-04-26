@@ -4,7 +4,7 @@
 ---
 
 
-[![Write me 📬](https://img.shields.io/static/v1?label=Escríbeme&message=📬&color=00b0f6&style=for-the-badge)](mailto:cuberobelen00@gmail.com)
+[![Write me 📬](https://img.shields.io/static/v1?label=Write%20me&message=📬&color=00b0f6&style=for-the-badge)](mailto:cuberobelen00@gmail.com)
 
 ---
 ## Projects in progress
