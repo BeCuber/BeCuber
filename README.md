@@ -8,8 +8,8 @@
 
 ---
 ## Proyectos en desarrollo
-<a href="https://github.com/BeCuber/TempO2"><img src="https://github.com/BeCuber/BeCuber/blob/main/b_T0.png?raw=true"/></a>
-<a href="https://github.com/BeCuber/Turnomatic"><img src="https://github.com/BeCuber/BeCuber/blob/main/b_Tmatic.png?raw=true"/></a>
+<a href="https://github.com/BeCuber/TempO2"><img src="./b_T0.png."/></a>
+<a href="https://github.com/BeCuber/Turnomatic"><img src="b_Tmatic.png"/></a>
 
 <!--
 **BeCuber/BeCuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
