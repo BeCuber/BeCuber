@@ -8,7 +8,7 @@
 
 ---
 ## Proyectos en desarrollo
-<a href="https://github.com/BeCuber/TempO2"><img src="./b_T0.png."/></a>
+<a href="https://github.com/BeCuber/TempO2"><img src="./b_T0.png"/></a>
 <a href="https://github.com/BeCuber/Turnomatic"><img src="b_Tmatic.png"/></a>
 
 <!--
