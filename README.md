@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola, soy Belentxu 👋
+---
+
+
+[![Escríbeme 📬](https://img.shields.io/static/v1?label=Escríbeme&message=📬&color=00b0f6&style=for-the-badge)](mailto:cuberobelen00@gmail.com)
+
+---
 
 <!--
 **BeCuber/BeCuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
