@@ -8,7 +8,7 @@
 
 ---
 ## Proyectos en desarrollo
-<a href="https://github.com/BeCuber/TempO2"><img src="./b_T0.png"/></a>
+<a href="https://github.com/BeCuber/CronO2"><img src="./b_T0.png"/></a>
 <a href="https://github.com/BeCuber/Turnomatic"><img src="./b_Tmatic.png"/></a>
 <a href="https://github.com/BeCuber/page_selenium_test"><img src="b_TEverything.png"/></a>
 
